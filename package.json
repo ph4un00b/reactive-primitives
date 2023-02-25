@@ -3,7 +3,8 @@
   "name": "reactor-p1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
